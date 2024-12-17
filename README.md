@@ -8,6 +8,7 @@ This repository contains multiple Python scripts for translating DOCX documents 
 ## Comparison Table
 
 ![Comparison Table](comparision.png)
+![Model Comparison Table](model.png)
 
 
 ### APP14.py
