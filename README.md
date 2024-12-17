@@ -79,12 +79,12 @@ This repository contains multiple Python scripts for translating DOCX documents 
     cd document-translator
     ```
 
-2. Install the required dependencies for the script you want to use. For example, for [APP14.py](http://_vscodecontentref_/10):
+2. Install the required dependencies for the script you want to use. For example, for [APP12.py](http://_vscodecontentref_/10):
     ```sh
     pip install langchain openai python-docx
     ```
 
-3. Set up your API keys if required. For example, for [APP14.py](http://_vscodecontentref_/11), set your OpenAI API key:
+3. Set up your API keys if required. For example, for [APP12.py](http://_vscodecontentref_/11), set your OpenAI API key:
     ```python
     os.environ["OPENAI_API_KEY"] = "your-openai-api-key"
     ```
