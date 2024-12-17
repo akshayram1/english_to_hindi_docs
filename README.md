@@ -5,6 +5,11 @@ This repository contains multiple Python scripts for translating DOCX documents 
 
 ## Scripts Overview
 
+## Comparison Table
+
+![Comparison Table](comparision.png)
+
+
 ### APP14.py
 - **Translation API/Library**: OpenAI GPT-4 via LangChain
 - **Features**: Image preservation, table translation, paragraph translation, custom prompt for translation
@@ -87,7 +92,4 @@ This repository contains multiple Python scripts for translating DOCX documents 
     ```sh
     python app12.py
     ```
-## Comparison Table
-
-![Comparison Table](comparision.png)
 
