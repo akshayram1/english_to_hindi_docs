@@ -156,3 +156,14 @@ cython_debug/
 *.pem
 *.crt
 
+# Ignore the output files
+output_hindi.docx
+output_hindi_ft.docx
+output_hindi_custom_prompt.docx
+translated_hindi.docx
+transllllllllll.docx
+translated_hindi_input3.docx
+translated_hindi3333.docx
+translated_hindi333333333.docx
+translated_hindi_ai4bharat.docx
+translated_hindi_input333.docx
